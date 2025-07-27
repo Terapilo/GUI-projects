@@ -4,7 +4,7 @@ This repository contains beginner-friendly GUI applications built using Python a
 
 ## Projects Included
 
-- 🧮 **GUI Calculator** – Perform basic arithmetic operations
+- [🧮 GUI Calculator](./GUI Calculator/README.md/) – Perform basic arithmetic operations
 - 📝 **Notes App** – Save and view personal notes with timestamps
 - 🔐 **Password Manager** – Store and manage login credentials securely
 
