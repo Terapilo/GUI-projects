@@ -1,9 +1,3 @@
-
----
-
-### 📁 gui_notes_app/README.md
-
-```markdown
 # GUI Notes App 📝
 
 A desktop notes-taking app using Python Tkinter.
